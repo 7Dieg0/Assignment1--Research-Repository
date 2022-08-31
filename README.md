@@ -19,20 +19,19 @@ Then I tried to draw a cute panda in Python which I really enjoyed. Please find 
 
 ## Things that you think are interesting or just don't understand (with comments) 
 
-The other thing I'm most interested in with Python is the **web crawler**.
+The other thing I'm most interested in is the **web crawler**.
 
 
-I searched on google, web crawler (also known as web spider) is a program or script that automatically crawls information on the World Wide Web according to certain rules.
+ **Web crawler** (also known as web spider) is a program or script that automatically crawls information on the World Wide Web according to certain rules. Heaps famous companies use web crawler technology such as *Google*. 
 
- - The Python crawler architecture is mainly composed of five parts, namely scheduler, URL manager, web page downloader, web page parser, and application (valuable data crawled).
+ - Python can be used for web crawler development, the Python crawler architecture is mainly composed of five parts, namely scheduler, URL manager, web page downloader, web page parser, and application (valuable data crawled).
    - Scheduler: Equivalent to the CPU of a computer, it is mainly responsible for scheduling the coordination among the URL manager, downloader, and parser.
    - URL Manager: It includes the URL address to be crawled and the URL address that has been crawled to prevent repeated URL crawling and loop crawling of URLs. There are three main ways to implement the URL manager: memory, database, and cache database.
    - Web page downloader: Download a web page by passing in a URL address and convert the web page into a string. The web page downloader has urllib2 (Python official basic module), including the need for login, proxy, and cookies, requests (third-party package).
    - Web page parser: By parsing a web page string, we can extract our useful information according to our requirements, or parse it according to the parsing method of the DOM tree. The web page parser has regular expressions (intuitively, convert web pages into strings to extract valuable information by fuzzy matching, when the document is more complex, this method will be very difficult to extract data), html. parser (that comes with Python), beautifulsoup (a third-party plugin, which can be parsed using html.parser that comes with Python, or lxml, which is more powerful than others), lxml (third-party plugins) , can parse xml and HTML), html.parser and beautifulsoup and lxml are all parsed in the way of DOM tree.
    - Application: an application consisting of useful data extracted from web pages.
 
+I reckon web crawler is one of the most popular and very promising technology at the moment. I hope I coukd learn something about web crawler in the class.
 
 
 
-
-這是一門當下最流行且非常有前景的技術，在以後的學習當中，我會放更多的注意力在網絡爬蟲學習上。
