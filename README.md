@@ -5,10 +5,16 @@ Recently I started to learn Python by myself. I found Python is very powerful wh
 ## A collection of your own code
 
 以下代码是软件课上的练习题目，刚开始觉得每一个题目都很难，通过与老师和同学的交流，最终有了很大的进步。（请查阅附件“01 Practise coding of the course”）
-The attached codings I created are based on the Roman's questions through lectures, such as 
-Code that you've been inspired by (with comments)
+The attached codings named 01 Practise coding of the course I created are based on the Roman's questions through lectures, such as "calculate Human's year to dog's age'
+
+Code that you've been inspired by (“01 Practise coding of the course”with comments)
 
 在对于Python不断地练习之后，通过查询了解到通过Python写代码居然可以画一些简单的图像，我对此特别的感兴趣。在网络和YouTube上学习了如何用Python绘制图象，学习到了通过import turtle去绘制蟒蛇（查阅附件“02 Draw a python with Python”和“02 output-Drawing a python with Python”），之后又尝试用Python绘制了熊猫（查阅附件“03 Draw Panda Using Turtle Graphics”和“03 output-Draw Panda Using Turtle Graphics”），这非常非常有意思。
+After practicing Python continuously, I found that writing code in Python can actually draw some simple images. I am paricularly interested in this. I learned how to draw images in Python on the Internet and YouTube, and learned how to draw a python by 'importing turtle' in Python. Please see the files named 02 Draw a python with Python and output-Drawing a python with Python.
+
+
+Then I tried to draw a cute panda in Python which I really enjoyed. Please find the attached coding named  '03 Draw Panda Using Turtle Graphics' and '03 output-Draw Panda Using Turtle Graphics'
+
 
 Things that you think are interesting or just don't understand (with comments) 
 
