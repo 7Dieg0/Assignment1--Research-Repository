@@ -86,11 +86,21 @@ Yes, in my mind creativity is the most thing in every industry, It is the key fo
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
+I have opened 5 taps at the moment, 100% study related, Because assignment is a handful.😁
+
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+
+It is a  no。 New technology means improved， I always enjoy learning new stuff.
 
 ### What is an IDE?
 
+An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI).
+
 ### What did you learn out of the Marshmallow Challenge?
+
+ - Working on a team is important
+ - relised Use what is available
+ - Don't just focus on being the top
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
