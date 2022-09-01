@@ -138,6 +138,8 @@ I might give them some life examples， such as *how to choose a gift for your f
 
 ### What is the hardest problem you have solved so far?
 
+To me, the most difficult thing is to leave my comfort zone, so choosing leaving my hometown to start my new life in New Zealand is the most challenging thing. I start to learn a new language and culture. Now I think I am doing very well as I can even learn IT courses in English.
+
 ### What is pair programming?
 
 Pair programming is a programming method in which two people work together on a single program. The first person is the “Driver“, who writes the code, the other person is the “Navigator” who reviews each line of code as it is typed, checking for errors.  They exchange their roles on a regular basis. 
@@ -158,11 +160,9 @@ Variables are used to store information to be referenced and manipulated in a co
 
 At the moment my favorite one is Python, Because I'm more familiar with it. But I'm keen to explore more soon.
 
-### What is something kind that someone has done for you?
-
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 
-I probably start by explaining that a computer is “A machine for following rules”…and those rules are computer programs. Then I talk about a cooking recipe as an example, this is a LOT like a computer program - you start at instruction and work down the list doing each step in turn.
+I probably start by explaining that a computer is “A machine for following rules” and those rules are computer programs. Then I talk about a cooking recipe as an example, this is a LOT like a computer program - you start at instruction and work down the list doing each step in turn.
 
 ### Which parts of this course made you feel doubtful of your own innate ability?
 
@@ -170,11 +170,18 @@ Logic skills sometimes😒
 
 ### What is a fixed mindset?
 
+A fixed mindset describes children (and adults) who believe their intelligence, talents and personalities are fixed traits that cannot grow. They believe we are born with a certain level of ability (or special skills) and we are unable to improve our level abilities over time.
+
+I do not agree with that, we should have growth mindset.
+
 ### What is something kind you have done for someone else?
 
 ### Have you done mindfulness or attention training before?
 
+Not yet, but I Think it is very important to fucus on what you are doing, I will try to do this training in the future.
+
 ### Have you developed a habit of persevering?
 
+Not really. But just for some things that interest me, I will stick to it for a long time. 
 
 
