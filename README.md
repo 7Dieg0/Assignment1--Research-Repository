@@ -126,6 +126,8 @@ At the moment, everything is new for me, I never felt tedious so far. To be hone
 
 ### What is polymorphism?
 
+Polymorphism is one of the core concepts of object-oriented programming (OOP) and describes situations in which something occurs in several different forms. In computer science, it describes the concept that you can access objects of different types through the same interface. Each type can provide its own independent implementation of this interface.
+
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
 Yes it is. It said 'Diego your English is so bad, studying IT courses is not suitable for you', I do not believe that, I keep improving my English, I keep practicing Python, searching on line, everything will be fine.
@@ -173,8 +175,6 @@ Logic skills sometimes😒
 A fixed mindset describes children (and adults) who believe their intelligence, talents and personalities are fixed traits that cannot grow. They believe we are born with a certain level of ability (or special skills) and we are unable to improve our level abilities over time.
 
 I do not agree with that, we should have growth mindset.
-
-### What is something kind you have done for someone else?
 
 ### Have you done mindfulness or attention training before?
 
