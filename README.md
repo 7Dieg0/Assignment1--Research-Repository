@@ -69,7 +69,7 @@ Not yet, but I relised that it is one of the most important thing in IT learning
 
 ### Have you meditated before?
 
-Yes, I have, sometimes What is the meaning of life pops into my mind 😂
+Yes, I have, sometimes 'What is the meaning of life' pops into my mind 😂
 
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
@@ -90,7 +90,7 @@ I have opened 5 taps at the moment, 100% study related, Because assignment is a 
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
-It is a  no. New technology means improved， I always enjoy learning new stuff.
+It is a no. New technology means improved, I always enjoy learning new stuff.
 
 ### What is an IDE?
 
@@ -128,25 +128,45 @@ At the moment, everything is new for me, I never felt tedious so far. To be hone
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
+Yes it is. It said 'Diego your English is so bad, studying IT courses is not suitable for you', I do not believe that, I keep improving my English, I keep practicing Python, searching on line, everything will be fine.
+
 ### What is an MVP? How would you describe it to a group of 6 year olds?
+
+A minimum viable product (MVP), is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
+
+I might give them some life examples， such as *how to choose a gift for your friend*.
 
 ### What is the hardest problem you have solved so far?
 
 ### What is pair programming?
 
+Pair programming is a programming method in which two people work together on a single program. The first person is the “Driver“, who writes the code, the other person is the “Navigator” who reviews each line of code as it is typed, checking for errors.  They exchange their roles on a regular basis. 
+
 ### What are you looking forward to learning about programming?
+
+I want to know more programing langauge and be able to work on them, such as Java、C++、JavaScript and so on.
 
 ### What is conscious listening?
 
+Conscious listening is the act of being intentionally present during communication between yourself and another while being aware of your own and the other’s feelings and needs. Conscious listening is related to mindful listening, which is allowing another to express him/herself without interrupting, judging, refuting or discounting.
+
 ### What is a variable?
 
+Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program.
+
 ### What programming languages are you interested in learning? Why?
+
+At the moment my favorite one is Python, Because I'm more familiar with it. But I'm keen to explore more soon.
 
 ### What is something kind that someone has done for you?
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 
+I probably start by explaining that a computer is “A machine for following rules”…and those rules are computer programs. Then I talk about a cooking recipe as an example, this is a LOT like a computer program - you start at instruction and work down the list doing each step in turn.
+
 ### Which parts of this course made you feel doubtful of your own innate ability?
+
+Logic skills sometimes😒
 
 ### What is a fixed mindset?
 
