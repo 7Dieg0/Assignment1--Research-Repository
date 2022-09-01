@@ -41,7 +41,9 @@ Yes, I took a break every 1 hour roughly, have a coffee and watching the mountai
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
-Never heard that before, I search it on Google, 'Timeboxing is an important concept in agile project management, it is a method of task and time management' . I think I will use it frequently.
+Never heard that before, I search it on Google, 'Timeboxing is an important concept in agile project management, it is a method of task and time management' .
+
+I think I will use it frequently in the future.
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
