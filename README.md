@@ -33,7 +33,7 @@ The other thing I'm most interested in is the **web crawler**.
 
 ***I reckon web crawler is one of the most popular and very promising technology at the moment. I hope I coukd learn something about web crawler in the class.***
 
-## The comments of Roman's Markdown files questions as below:
+## To answer Roman's Markdown files questions as below:
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
@@ -90,7 +90,7 @@ I have opened 5 taps at the moment, 100% study related, Because assignment is a 
 
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
-It is a  no。 New technology means improved， I always enjoy learning new stuff.
+It is a  no. New technology means improved， I always enjoy learning new stuff.
 
 ### What is an IDE?
 
@@ -104,13 +104,25 @@ An integrated development environment (IDE) is software for building application
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
+At the beginning our team just focus on building as high as we can, and we used too many marshmallows. It caused that our tower is not stable enough, collapsed several times. We reduced the use of marshmallows and optimized the structure of the towerand and did a good job finally.
+
 ### So far, what was the hardest moment of this course for you?
+
+For me the main problem is my English is not enough although I'm keep improving. Sometimes I got lost totally, I felt frustrated. And then I have spent munch more time to understand after course. 
 
 ### What is OOP?
 
+Never heard that before, I search it on Google.
+
+Object Oriented programming (OOP) is a programming paradigm that relies on the concept of classes and objects. It is used to structure a software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create individual instances of objects. 
+
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
+I often use the canvas content, I can discuss my problems with my mates and try to find solution. I use it to browse my course overview to get some learning materials, it is very helpful.
+
 ### Which parts of the work did you find tedious?
+
+At the moment, everything is new for me, I never felt tedious so far. To be honest it's more of a challenge for me.
 
 ### What is polymorphism?
 
